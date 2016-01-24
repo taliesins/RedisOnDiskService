@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Redis.OnDisk</id>
+    <version>1.0.0.0</version>
+    <title>Redis.OnDisk</title>
+    <authors>Taliesin Sisson</authors>
+    <owners>Talifun Ltd</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Redis.OnDisk</description>
+    <summary>Redis.OnDisk</summary>
+    <language>en-GB</language>
+    <tags>redis on disk</tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+  <files>
+  	<file src="**\*" exclude=".git\**\*;RedisOnDiskService.nuspec;nuget\**\*;" target="" />
+  </files>  
+</package>
